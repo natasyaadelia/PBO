@@ -14,5 +14,4 @@
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Tugas%20Praktikum.png "hasil tujuh")
 # Hasil Delapan Variabel
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Variabel.png "hasil delapan")
-# Hasil Sembilan Data Diri
-#![AltText](https://github.com/natasyaadelia/PBO/blob/master/data%20diri.png "hasil sembilan")
+
