@@ -1,18 +1,18 @@
-#Hasil Satu
+# Hasil Satu
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Aritmatika.png "hasil satu")
-#Hasil Dua
+# Hasil Dua
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Eksplorasi.png "hasil dua")
-#Hasil Tiga
+# Hasil Tiga
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Hello%20Telkom.png "hasil tiga")
-#Hasil Empat
+# Hasil Empat
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Luas%20Balok.png "hasil empat")
-#Hasil Lima
+# Hasil Lima
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/PBO.png "hasil lima")
-#Hasil Enam
+# Hasil Enam
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Sepeda%20Motor.png "hasil enam")
-#Hasil Tujuh
+# Hasil Tujuh
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Tugas%20Praktikum.png "hasil tujuh")
-#Hasil Delapan
+# Hasil Delapan
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/Variabel.png "hasil delapan")
-#Hasil Sembilan
+# Hasil Sembilan
 #![AltText](https://github.com/natasyaadelia/PBO/blob/master/data%20diri.png "hasil sembilan")
